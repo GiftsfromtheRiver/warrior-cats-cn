@@ -1,0 +1,52 @@
+{
+  "mod": {
+    "name": "Warrior Cats: Clans of the Forest 简体中文汉化",
+    "version": "0.1.1"
+  },
+  "generator": "wrc-cn/tools/install/installer.py",
+  "files": [
+    {
+      "name": "pakchunk0-Windows_P.pak",
+      "size": 8323077,
+      "sha256": "03424ec10e1b5f4ce2a28aa8873c9a1ffe064e49e323d5198e36abe4636f6fd5",
+      "pak_entries": [
+        "WRC-CN-ModMarker.txt",
+        "Wrc/Content/Art/UXD/Fonts/Amarante/Amarante-Regular.ufont",
+        "Wrc/Content/Art/UXD/Fonts/Catamaran/Catamaran-Bold.ufont",
+        "Wrc/Content/Art/UXD/Fonts/Catamaran/Catamaran-Medium.ufont",
+        "Wrc/Content/Art/UXD/Fonts/Catamaran/Catamaran-Regular.ufont",
+        "Wrc/Content/Art/UXD/Fonts/Catamaran/Catamaran-SemiBold.ufont",
+        "Wrc/Content/Art/UXD/Fonts/Noto/NotoSans-Black.ufont",
+        "Wrc/Content/Art/UXD/Fonts/Noto/NotoSans-Bold.ufont",
+        "Wrc/Content/Art/UXD/Fonts/Noto/NotoSans-Italic.ufont",
+        "Wrc/Content/Art/UXD/Fonts/Noto/NotoSans-Regular.ufont",
+        "Wrc/Content/Art/UXD/Fonts/Noto/NotoSans-SemiBold.ufont",
+        "Wrc/Content/Gameplay/Strings/NonAsset/Strings_EN.csv"
+      ]
+    },
+    {
+      "name": "pakchunk0-Windows_P.ucas",
+      "size": 64,
+      "sha256": "bbc5f021c03e0c79a1459bac23b0729eecbacd0d2bec78eaef9c7e61a55f9e48"
+    },
+    {
+      "name": "pakchunk0-Windows_P.utoc",
+      "size": 202,
+      "sha256": "dd40f7471358399ada3d76fd01f6ced70c776a3a0f22dcb4674f350329a00ed2"
+    }
+  ],
+  "expected_entries": [
+    "WRC-CN-ModMarker.txt",
+    "Wrc/Content/Art/UXD/Fonts/Amarante/Amarante-Regular.ufont",
+    "Wrc/Content/Art/UXD/Fonts/Catamaran/Catamaran-Bold.ufont",
+    "Wrc/Content/Art/UXD/Fonts/Catamaran/Catamaran-Medium.ufont",
+    "Wrc/Content/Art/UXD/Fonts/Catamaran/Catamaran-Regular.ufont",
+    "Wrc/Content/Art/UXD/Fonts/Catamaran/Catamaran-SemiBold.ufont",
+    "Wrc/Content/Art/UXD/Fonts/Noto/NotoSans-Black.ufont",
+    "Wrc/Content/Art/UXD/Fonts/Noto/NotoSans-Bold.ufont",
+    "Wrc/Content/Art/UXD/Fonts/Noto/NotoSans-Italic.ufont",
+    "Wrc/Content/Art/UXD/Fonts/Noto/NotoSans-Regular.ufont",
+    "Wrc/Content/Art/UXD/Fonts/Noto/NotoSans-SemiBold.ufont",
+    "Wrc/Content/Gameplay/Strings/NonAsset/Strings_EN.csv"
+  ]
+}

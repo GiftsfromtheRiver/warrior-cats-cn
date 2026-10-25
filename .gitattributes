@@ -1,0 +1,12 @@
+* text=auto
+*.md text eol=lf
+*.ps1 text eol=crlf
+*.py text eol=lf
+*.json text eol=lf
+*.csv -text
+*.txt -text
+*.ufont binary
+*.pak binary
+*.ucas binary
+*.utoc binary
+*.png binary

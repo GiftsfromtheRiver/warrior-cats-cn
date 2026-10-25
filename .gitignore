@@ -1,0 +1,10 @@
+# build outputs
+dist/
+build/tmp/
+*.log
+# tool binaries (download yourself, do not commit)
+tools/*
+!tools/README.md
+# local
+.vs/
+.idea/
