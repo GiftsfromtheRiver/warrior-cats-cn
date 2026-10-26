@@ -18,7 +18,7 @@
 | Clan / Clans | 族群（单数：族；如 "the Clan" 视语境译“族群/族里”） |
 | Clanmate / Clanmates | 族猫 / 同族猫；复数“族猫们” |
 | The Warrior Code / Code | 武士守则 |
-| Gathering | 大集会 |
+| Gathering / the Gathering | 满月会议（满月时的族群大会） |
 | Moonpool | 月亮池 |
 | Moonstone | 月亮石 |
 | Place of No Stars / Dark Forest | 无星之地 / 黑森林 |

@@ -1,6 +1,6 @@
 # 猫武士：森林中的族群 — 简体中文汉化 / Warrior Cats: Clans of the Forest — Simplified Chinese Mod
 
-**人机合作非官方粉丝汉化 · 免费发布 · v0.1.2**
+**人机合作非官方粉丝汉化 · 免费发布 · v0.1.3**
 
 > 适用游戏：`Warrior Cats: Clans of the Forest`（Steam AppID **3960600**）
 > 对应游戏构建：2026-10（UE 5.7 / Bamtang）

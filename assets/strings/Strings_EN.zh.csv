@@ -4257,7 +4257,7 @@ QST_RankUp.Apprentice.Context.1,你刻苦训练过，但在赢得武士名号之
 QST_RankUp.Apprentice.Task.1,你必须再逼自己一把，越过你以为的极限。等月亮高挂时回来，我们来看看你到底是学徒，还是武士。
 QST_RankUp.Apprentice.Context.2,等你<B>向自己证明了</>你拥有的巨大力量，就回来。若你做到了，我们会聚在一处，看你成为武士。
 QST_RankUp.Activity.1,提升你的力量：
-QST_RankUp.Activity.2,参加族群大集会：
+QST_RankUp.Activity.2,参加族群满月会议：
 QST_RankUp.Activity.3,在巢穴中休息：
 QST_RankUp.Apprentice.Return.1,你直面了自己的极限，并越了过去。你向自己证明了力量，也就向族群证明了。欢迎晋入武士之位。
 QST_RankUp.Warrior.Title,锋芒不减
@@ -6960,8 +6960,8 @@ QST_Story.Monologue.Filler.Crowfeather.Main.9.Context.1.Negative,那个被怀疑
 QST_Story.Monologue.Filler.WindClanKit.Main.9.Context.1.Positive,你知道我在育婴室看见什么了吗？{THE ZEALOUS WARRIOR}和{THE INSECURE LEADER}在说话。我打赌他们在聊你成了多棒的族长。
 QST_Story.Monologue.Filler.WindClanKit.Main.9.Context.1.Neutral,你知道我在育婴室看见什么了吗？{THE ZEALOUS WARRIOR}和{THE INSECURE LEADER}在说话。我想不出他们有什么好聊的。
 QST_Story.Monologue.Filler.WindClanKit.Main.9.Context.1.Negative,从育婴室我能看见{THE ZEALOUS WARRIOR}和{THE INSECURE LEADER}在说话。他们多半都在失望，没想到你成了这样的族长。
-QST_Story.Monologue.Filler.WindClanWarrior.Main.9.Context.1.Positive,从大集会上其他族群对{THE WARRIOR FATHER}之死的反应来看，我觉得他们的武士不是凶手。你该去追捕那只独行猫。
-QST_Story.Monologue.Filler.WindClanWarrior.Main.9.Context.1.Neutral,从大集会上其他族群对{THE WARRIOR FATHER}之死的反应来看，我觉得他们的武士不是凶手。我在想，你能不能找到那只独行猫。
+QST_Story.Monologue.Filler.WindClanWarrior.Main.9.Context.1.Positive,从满月会议上其他族群对{THE WARRIOR FATHER}之死的反应来看，我觉得他们的武士不是凶手。你该去追捕那只独行猫。
+QST_Story.Monologue.Filler.WindClanWarrior.Main.9.Context.1.Neutral,从满月会议上其他族群对{THE WARRIOR FATHER}之死的反应来看，我觉得他们的武士不是凶手。我在想，你能不能找到那只独行猫。
 QST_Story.Monologue.Filler.WindClanWarrior.Main.9.Context.1.Negative,从其他族群对{THE WARRIOR FATHER}之死的反应来看，我觉得他们的武士不是凶手。还有那只独行猫，可她这会儿大概已经跑远了。
 QST_Story.Long.TheProudLoner.Unique.3.Context.1,我欠你一些答案，所以我来了。我说过我看见{THE WARRIOR FATHER}摔下去。那是因为我们刚见过面。他想招募我加入你们的族群。
 QST_Story.Long.TheProudLoner.Unique.3.Question.1,我当然拒绝了，然后转身离开。片刻之后，我听见他一声惨叫，<B>瞥见他滚下峡谷</>。我说过了，那是个意外。
@@ -7457,7 +7457,7 @@ QST_Story.Long.TheMistrustfulLeader.Main.5.Wrong.3.Short,等他自己出错。
 QST_Story.Long.TheMistrustfulLeader.Main.5.Neutral.3.Short,去求助。
 QST_Story.Long.TheMistrustfulLeader.Main.5.Right.3.Long,杀掉{THE VENGEFUL ROGUE}会挫伤其他泼皮猫的士气，让他们四散奔逃。这样等河水变清也会更容易。
 QST_Story.Long.TheMistrustfulLeader.Main.5.Wrong.3.Long,我们就等{THE VENGEFUL ROGUE}出错。那会让他放松警惕，然后我们就能收拾他！
-QST_Story.Long.TheMistrustfulLeader.Main.5.Neutral.3.Long,我没什么新话可说。早该向其他族群求助了。就在下次大集会上说吧，赶在我们越界捕猎的秘密传出去之前。
+QST_Story.Long.TheMistrustfulLeader.Main.5.Neutral.3.Long,我没什么新话可说。早该向其他族群求助了。就在下次满月会议上说吧，赶在我们越界捕猎的秘密传出去之前。
 QST_Story.Long.TheMistrustfulLeader.Main.5.Context.End.Right,是啊，我怀疑{THE VENGEFUL ROGUE}不会让我们轻易把他赶走。与他决一死战似乎不可避免。
 QST_Story.Long.TheMistrustfulLeader.Main.5.Context.End.Wrong,这主意太糟了。如果{THE VENGEFUL ROGUE}这么容易对付，他也不会已经惹出这么多麻烦！
 QST_Story.Long.TheMistrustfulLeader.Main.5.Context.End.Neutral,你开始说服我了。要是其他族群发现我们一直在他们的领地上捕猎，他们肯定不会帮我们对付泼皮猫。
@@ -7502,7 +7502,7 @@ QST_Story.Short.TheRegretfulWarrior.Main.5.Neutral.2.Short,那只猫是谁？
 QST_Story.Short.TheRegretfulWarrior.Main.5.Right.2.Long,你从没见过他们？太悲惨了。你现在是长老了。你不能去看看他们吗？如果能帮上忙，我愿意促成这件事。
 QST_Story.Short.TheRegretfulWarrior.Main.5.Wrong.2.Long,谢谢你告诉我这些。你没见过他们，也许反倒更好。见了面，大概只会让你对这一切更难受。
 QST_Story.Short.TheRegretfulWarrior.Main.5.Neutral.2.Long,那只雷族的猫是谁？我很好奇。当然，你的秘密我会守住。
-QST_Story.Short.TheRegretfulWarrior.Main.5.Context.End.Right,是啊，太悲惨了。我在大集会上见过他们，仅此而已。我真希望他们能认识自己的父亲。（咳嗽）谢谢你愿意帮忙。
+QST_Story.Short.TheRegretfulWarrior.Main.5.Context.End.Right,是啊，太悲惨了。我在满月会议上见过他们，仅此而已。我真希望他们能认识自己的父亲。（咳嗽）谢谢你愿意帮忙。
 QST_Story.Short.TheRegretfulWarrior.Main.5.Context.End.Wrong,也许吧，可你也没让我好受多少。（咳嗽）我只希望你别经历这种事。
 QST_Story.Short.TheRegretfulWarrior.Main.5.Context.End.Neutral,没关系。她已经死了，不在了。（咳嗽）我只希望，在我大限到来之前，能见见我的幼崽，哪怕只有一次。
 QST_Story.Short.TheRegretfulWarrior.Main.5.End,你该回去履职了。而我这个长老，就坐在这儿（咳嗽），反复咀嚼自己的过去。我们长老就是这样。
@@ -7534,8 +7534,8 @@ QST_Story.Long.TheMistrustfulLeader.Main.6.Right.2.Short,求助，正是力量�
 QST_Story.Long.TheMistrustfulLeader.Main.6.Wrong.2.Short,我们已经很虚弱了。
 QST_Story.Long.TheMistrustfulLeader.Main.6.Neutral.2.Short,你必须重新考虑。
 QST_Story.Long.TheMistrustfulLeader.Main.6.Right.2.Long,恕我直言，我必须郑重地提醒你：我们这么做是错的。求援不是软弱，而是力量，是对武士守则的信念。
-QST_Story.Long.TheMistrustfulLeader.Main.6.Wrong.2.Long,反正我们的处境已经很弱了。你想想，要是他们一直等着在大集会、当着所有族群的面跟我们算账，那会是什么场面！
-QST_Story.Long.TheMistrustfulLeader.Main.6.Neutral.2.Long,我明白你的担忧，但你得重新考虑。族里都在发愁，大多数猫并不认同你的决定。我们不能揣着真相去参加大集会。
+QST_Story.Long.TheMistrustfulLeader.Main.6.Wrong.2.Long,反正我们的处境已经很弱了。你想想，要是他们一直等着在满月会议、当着所有族群的面跟我们算账，那会是什么场面！
+QST_Story.Long.TheMistrustfulLeader.Main.6.Neutral.2.Long,我明白你的担忧，但你得重新考虑。族里都在发愁，大多数猫并不认同你的决定。我们不能揣着真相去参加满月会议。
 QST_Story.Long.TheMistrustfulLeader.Main.6.Context.3.Right,刚上任就懂得用职位来影响我了，嗯？我喜欢这股主动劲儿。那就把这股力气用在解决我们的难题上！
 QST_Story.Long.TheMistrustfulLeader.Main.6.Context.3.Wrong,我们不弱！我们的武士足够隐蔽，不会被别的族群抓住。我以为我的新副族长会对我更有信心。
 QST_Story.Long.TheMistrustfulLeader.Main.6.Context.3.Neutral,没错，族群的情绪很重要。但身为族长，我们必须做保护他们该做的事，哪怕他们不认同。
@@ -7584,7 +7584,7 @@ QST_Story.Short.TheRegretfulWarrior.Main.6.Wrong.2.Short,他们不会听的。
 QST_Story.Short.TheRegretfulWarrior.Main.6.Neutral.2.Short,先看看再说。
 QST_Story.Short.TheRegretfulWarrior.Main.6.Right.2.Long,你说得对。可是背着{THE MISTRUSTFUL LEADER}行事，就是违背武士守则。但我必须行动。我会让他们听我说！
 QST_Story.Short.TheRegretfulWarrior.Main.6.Wrong.2.Long,他们不会听的，尤其是一旦知道我们一直在他们领地里狩猎。再说，我要是背着{THE MISTRUSTFUL LEADER}行事，那就是自寻死路！
-QST_Story.Short.TheRegretfulWarrior.Main.6.Neutral.2.Long,那样等{THE MISTRUSTFUL LEADER}知道了，我会很为难。还是先看看大集会的情形再说吧。
+QST_Story.Short.TheRegretfulWarrior.Main.6.Neutral.2.Long,那样等{THE MISTRUSTFUL LEADER}知道了，我会很为难。还是先看看满月会议的情形再说吧。
 QST_Story.Short.TheRegretfulWarrior.Main.6.Context.End.Right,我比以往任何时候都（咳嗽）（咳嗽）相信，你终有一天会成为我们的族长。（咳嗽）但愿我能活着看到那一天。
 QST_Story.Short.TheRegretfulWarrior.Main.6.Context.End.Wrong,倘若职责召唤你（咳嗽）为族群的利益牺牲自己，那就去吧。这是星族的旨意。
 QST_Story.Short.TheRegretfulWarrior.Main.6.Context.End.Neutral,你若觉得这样最好。（咳嗽）（咳嗽）但别忘了，你拖得越久，（咳嗽）族群受到的伤害就越大。
@@ -7614,7 +7614,7 @@ QST_Story.Short.TheMistrustfulLeader.Main.7.Wrong.1.Long,你的固执毁了一�
 QST_Story.Short.TheMistrustfulLeader.Main.7.Neutral.1.Long,事已至此，过去改不了了。所幸我们都还活着，还能继续战斗。
 QST_Story.Short.TheMistrustfulLeader.Main.7.Context.2.Wrong,我从一开始就该听你的。更出色的族长，会做出比这更难的决定。
 QST_Story.Short.TheMistrustfulLeader.Main.7.Context.2.Neutral,我想这得谢星族。反正绝不是因为我。
-QST_Story.Short.TheMistrustfulLeader.Main.7.Question.2,我猜即将到来的这次大集会，会是我最后一次。若我退位——族里不少猫会松一口气——<B>你就将成为族长</>。
+QST_Story.Short.TheMistrustfulLeader.Main.7.Question.2,我猜即将到来的这次满月会议，会是我最后一次。若我退位——族里不少猫会松一口气——<B>你就将成为族长</>。
 QST_Story.Short.TheMistrustfulLeader.Main.7.Right.2.Short,我会是个强有力的族长！
 QST_Story.Short.TheMistrustfulLeader.Main.7.Wrong.2.Short,我还没准备好。
 QST_Story.Short.TheMistrustfulLeader.Main.7.Neutral.2.Short,若星族有意。
@@ -7624,7 +7624,7 @@ QST_Story.Short.TheMistrustfulLeader.Main.7.Neutral.2.Long,也许吧，若星族
 QST_Story.Short.TheMistrustfulLeader.Main.7.Context.End.Right,若能看你带领族群，我会倍感荣幸。
 QST_Story.Short.TheMistrustfulLeader.Main.7.Context.End.Wrong,别谦虚了。要当族长，需要力量、勇气和智慧。
 QST_Story.Short.TheMistrustfulLeader.Main.7.Context.End.Neutral,谢谢你一直以来的支持。做好准备吧：一旦我退位，作为副族长，族群就会由你接掌。
-QST_Story.Short.TheMistrustfulLeader.Main.7.End,去为大集会做准备吧。我也有我的事要料理。到时候，我们一起去与其他族群的族长说话。
+QST_Story.Short.TheMistrustfulLeader.Main.7.End,去为满月会议做准备吧。我也有我的事要料理。到时候，我们一起去与其他族群的族长说话。
 QST_Story.Short.TheRedeemableRogue.Main.7.Question.1,从我这边看，他们似乎正占上风。<B>你们的情形真有看上去那么糟吗</>？
 QST_Story.Short.TheRedeemableRogue.Main.7.Right.1.Short,我们会没事的。
 QST_Story.Short.TheRedeemableRogue.Main.7.Wrong.1.Short,相当糟。
@@ -7656,8 +7656,8 @@ QST_Story.Monologue.Filler.RiverClanMotherElder.Main.7.Context.1.Neutral,听说{
 QST_Story.Monologue.Filler.RiverClanMotherElder.Main.7.Context.1.Negative,你知道我爱你，只盼你最好。可我怕你还没准备好带领我们的族群。至少现在还没有。
 QST_Story.Monologue.Filler.RiverClanKit.Main.7.Context.1.Positive,我问妈妈{THE REGRETFUL WARRIOR}怎么样了，她只是摇了摇头。他病得这么重，我很难过。
 QST_Story.Monologue.Filler.RiverClanKit.Main.7.Context.1.Negative,你怎么还敢靠近{THE REGRETFUL WARRIOR}？你不怕自己也死掉吗？
-QST_Story.Monologue.Filler.RiverClanQueen.Main.7.Context.1.Positive,{THE MISTRUSTFUL LEADER}可能在下一次大集会后退位的消息，是族里许久以来最好的消息。
-QST_Story.Monologue.Filler.RiverClanQueen.Main.7.Context.1.Neutral,{THE MISTRUSTFUL LEADER}要在下次大集会后去做长老？在这种一团乱的时候？唔……
+QST_Story.Monologue.Filler.RiverClanQueen.Main.7.Context.1.Positive,{THE MISTRUSTFUL LEADER}可能在下一次满月会议后退位的消息，是族里许久以来最好的消息。
+QST_Story.Monologue.Filler.RiverClanQueen.Main.7.Context.1.Neutral,{THE MISTRUSTFUL LEADER}要在下次满月会议后去做长老？在这种一团乱的时候？唔……
 QST_Story.Monologue.Filler.RiverClanQueen.Main.7.Context.1.Negative,{THE MISTRUSTFUL LEADER}偏偏在这种时候想着退位，把族群丢给你来带，实在让人心里不安。
 QST_Story.Monologue.Interaction.TheVengefulRouge.Unique.2.Context.1,包围圈正在收拢，你和你可悲的族群无处可逃。需要星族的时候，你那位宝贵的星族在哪儿？
 QST_Story.Monologue.Interaction.TheVengefulRouge.Unique.2.Context.2,他们抛弃了你，你却还幻想着他们的谜语能救你。救不了的。至少对付不了我。
@@ -7704,8 +7704,8 @@ QST_Story.Monologue.Filler.RiverClanApprentice.Unique.2.Context.1.Positive,幸�
 QST_Story.Monologue.Filler.RiverClanApprentice.Unique.2.Context.1.Neutral,{THE MISTRUSTFUL LEADER}以为自己能独力对付{THE VENGEFUL ROGUE}，结果送了命！希望你没那么蠢。
 QST_Story.Monologue.Filler.RiverClanApprentice.Unique.2.Context.1.Negative,{THE MISTRUSTFUL LEADER}想独自对抗{THE VENGEFUL ROGUE}，把自己害死了。我怕你的骄傲也会让你犯同样的错。
 QST_Story.Monologue.Filler.RiverClanMedicineCat.Unique.2.Context.1.Positive,别重蹈{THE MISTRUSTFUL LEADER}的覆辙。你一旦当上族长，立刻叫停别族领地里的狩猎！
-QST_Story.Monologue.Filler.RiverClanMedicineCat.Unique.2.Context.1.Neutral,{THE MISTRUSTFUL LEADER}本打算在即将到来的大集会上求援，却在这之前丢了命！希望你能当个更果决的族长。
-QST_Story.Monologue.Filler.RiverClanMedicineCat.Unique.2.Context.1.Negative,你似乎还没准备好代表河族出席即将到来的大集会。至少在该去见其他族长之前，懂点事，把狩猎叫停。
+QST_Story.Monologue.Filler.RiverClanMedicineCat.Unique.2.Context.1.Neutral,{THE MISTRUSTFUL LEADER}本打算在即将到来的满月会议上求援，却在这之前丢了命！希望你能当个更果决的族长。
+QST_Story.Monologue.Filler.RiverClanMedicineCat.Unique.2.Context.1.Negative,你似乎还没准备好代表河族出席即将到来的满月会议。至少在该去见其他族长之前，懂点事，把狩猎叫停。
 QST_Story.Monologue.Filler.RiverClanMotherElder.Unique.2.Context.1.Positive,{THE MISTRUSTFUL LEADER}的死让我难过，但你要成为我们的新族长了，我非常骄傲。
 QST_Story.Monologue.Filler.RiverClanMotherElder.Unique.2.Context.1.Neutral,{THE MISTRUSTFUL LEADER}死了。多惨的事！你会尽力不让局面更糟的，对吧？
 QST_Story.Monologue.Filler.RiverClanKit.Unique.2.Context.1.Positive,{THE MISTRUSTFUL LEADER}还算凑合，可等你当上族长，总算能把那些泼皮猫赶走了！
@@ -7740,48 +7740,48 @@ QST_Story.Long.TheRedeemableRouge.Main.8.Right.3.Short,他的计划会落空。
 QST_Story.Long.TheRedeemableRouge.Main.8.Wrong.3.Short,我们需要其他族群。
 QST_Story.Long.TheRedeemableRouge.Main.8.Neutral.3.Short,我最好早做准备。
 QST_Story.Long.TheRedeemableRouge.Main.8.Right.3.Long,他的计划会落空。有没有其他族群的援手，河族都强得足以击败{THE VENGEFUL ROGUE}。
-QST_Story.Long.TheRedeemableRouge.Main.8.Wrong.3.Long,幸好大集会就要开了。我可以争取其他族群一起来对付{THE VENGEFUL ROGUE}。
-QST_Story.Long.TheRedeemableRouge.Main.8.Neutral.3.Long,我最好召集武士，做好准备。至少我们能撑到大集会，那时或许能争取到其他族群的援手。
+QST_Story.Long.TheRedeemableRouge.Main.8.Wrong.3.Long,幸好满月会议就要开了。我可以争取其他族群一起来对付{THE VENGEFUL ROGUE}。
+QST_Story.Long.TheRedeemableRouge.Main.8.Neutral.3.Long,我最好召集武士，做好准备。至少我们能撑到满月会议，那时或许能争取到其他族群的援手。
 QST_Story.Long.TheRedeemableRouge.Main.8.Context.End.Right,我佩服你的自信。你是族群的骄傲。若真需要，我敢说你也一定能说服其他族群来帮你。
-QST_Story.Long.TheRedeemableRouge.Main.8.Context.End.Wrong,没时间等大集会了。{THE VENGEFUL ROGUE}可能在你来得及求援之前就把你杀了！
+QST_Story.Long.TheRedeemableRouge.Main.8.Context.End.Wrong,没时间等满月会议了。{THE VENGEFUL ROGUE}可能在你来得及求援之前就把你杀了！
 QST_Story.Long.TheRedeemableRouge.Main.8.Context.End.Neutral,{THE VENGEFUL ROGUE}行事难测。但若你能撑到与其他族群族长说话的那一刻，就还有活下来的机会。
 QST_Story.Long.TheRedeemableRouge.Main.8.End,我想我该谢谢你，没有当场把我撕碎。
-QST_Story.Monologue.Filler.Squirrelstar.Main.8.Context.1.Neutral,你总算叫停了那些狩猎。可要帮你？我说不好。不敢保证，但我们会在集会上考虑你的请求。
+QST_Story.Monologue.Filler.Squirrelstar.Main.8.Context.1.Neutral,你总算叫停了那些狩猎。可要帮你？我说不好。不敢保证，但我们会在满月会议上考虑你的请求。
 QST_Story.Monologue.Filler.Squirrelstar.Main.8.Context.1.Negative,别以为叫停了狩猎，就能得到其他族群的援助。你还有一大堆账要交代。
 QST_Story.Monologue.Filler.Ivypool.Main.8.Context.1.Positive,替{THE MISTRUSTFUL LEADER}收拾烂摊子，是什么滋味？这显出的是力量还是软弱？不过你补救的态度倒像是真心的。这一点我承认。
 QST_Story.Monologue.Filler.Ivypool.Main.8.Context.1.Neutral,要收拾{THE MISTRUSTFUL LEADER}的烂摊子，你得先露软弱，才能显出力量。还得开口乞求援手。我们会听，但你能指望的也就这些。
 QST_Story.Monologue.Filler.RiverClanApprentice.Main.8.Context.1.Positive,有你来掌舵，我对我们的胜算已经更有信心了。其他族群的族长一定会听你的。
-QST_Story.Monologue.Filler.RiverClanApprentice.Main.8.Context.1.Neutral,希望大集会上一切顺利，其他族长肯听你说。
-QST_Story.Monologue.Filler.RiverClanApprentice.Main.8.Context.1.Negative,希望你在练习要在集会上对别的族长说的话，好让他们肯帮忙。不然，我们的处境会更糟。
+QST_Story.Monologue.Filler.RiverClanApprentice.Main.8.Context.1.Neutral,希望满月会议上一切顺利，其他族长肯听你说。
+QST_Story.Monologue.Filler.RiverClanApprentice.Main.8.Context.1.Negative,希望你在练习要在满月会议上对别的族长说的话，好让他们肯帮忙。不然，我们的处境会更糟。
 QST_Story.Monologue.Filler.RiverClanMedicineCat.Main.8.Context.1.Positive,听说{THE REGRETFUL WARRIOR}被发现死在森林里了！他病成那样，是什么迷了心窍要离开营地？只愿他现在安息了。
 QST_Story.Monologue.Filler.RiverClanMedicineCat.Main.8.Context.1.Neutral,{THE REGRETFUL WARRIOR}病成那样，为什么要离开营地？也许临死前，绿咳症已经让他神志不清了。
 QST_Story.Monologue.Filler.RiverClanMedicineCat.Main.8.Context.1.Negative,{THE REGRETFUL WARRIOR}一定知道自己快死了。否则他怎会那么不顾一切地走进森林？
 QST_Story.Monologue.Filler.RiverClanMotherElder.Main.8.Context.1.Positive,大家都盼着你能把其他族群的族长拉到我们这边，一起对付泼皮猫。我知道你一定会让你母亲和族群都为你骄傲！
-QST_Story.Monologue.Filler.RiverClanMotherElder.Main.8.Context.1.Neutral,希望你已经为大集会做好了准备。我们真的很需要其他族群的帮助来对付泼皮猫。一如既往，尽力而为吧！
-QST_Story.Monologue.Filler.RiverClanMotherElder.Main.8.Context.1.Negative,你要是在集会上没能说服其他族长出手对付泼皮猫，就是辜负了我们的族群，也丢尽了你可怜母亲的脸！
+QST_Story.Monologue.Filler.RiverClanMotherElder.Main.8.Context.1.Neutral,希望你已经为满月会议做好了准备。我们真的很需要其他族群的帮助来对付泼皮猫。一如既往，尽力而为吧！
+QST_Story.Monologue.Filler.RiverClanMotherElder.Main.8.Context.1.Negative,你要是在满月会议上没能说服其他族长出手对付泼皮猫，就是辜负了我们的族群，也丢尽了你可怜母亲的脸！
 QST_Story.Monologue.Filler.RiverClanKit.Main.8.Context.1.Positive,我爸妈一直觉得{THE MISTRUSTFUL LEADER}把预言解错了，是你弄明白了。干得好！
 QST_Story.Monologue.Filler.RiverClanKit.Main.8.Context.1.Neutral,既然{THE MISTRUSTFUL LEADER}全解错了，而你看懂了预言，说不定你真能救我们。
 QST_Story.Monologue.Filler.RiverClanKit.Main.8.Context.1.Negative,我爸妈怕你会跟{THE MISTRUSTFUL LEADER}一样，把预言的意思搞砸。
-QST_Story.Monologue.Filler.RiverClanQueen.Main.8.Context.1.Positive,在大集会上代表河族，对我们大家来说都是大事。我相信你能赢得其他族群族长的认可。
-QST_Story.Monologue.Filler.RiverClanQueen.Main.8.Context.1.Neutral,在集会上尽力说服其他族长帮我们吧。求你。
-QST_Story.Monologue.Filler.RiverClanQueen.Main.8.Context.1.Negative,你要是在集会上表现失当，其他族长就会觉得你软弱，拒绝帮忙。别让这种事发生！
+QST_Story.Monologue.Filler.RiverClanQueen.Main.8.Context.1.Positive,在满月会议上代表河族，对我们大家来说都是大事。我相信你能赢得其他族群族长的认可。
+QST_Story.Monologue.Filler.RiverClanQueen.Main.8.Context.1.Neutral,在满月会议上尽力说服其他族长帮我们吧。求你。
+QST_Story.Monologue.Filler.RiverClanQueen.Main.8.Context.1.Negative,你要是在满月会议上表现失当，其他族长就会觉得你软弱，拒绝帮忙。别让这种事发生！
 QST_Story.Monologue.Filler.RiverClanApprentice.Main.9.Context.1.Positive,有传言说，泼皮猫要来攻打我们的营地！但我知道，你会带着武士们把他们赶走。
 QST_Story.Monologue.Filler.RiverClanApprentice.Main.9.Context.1.Neutral,传言说，泼皮猫要来攻打营地本身。我还以为我们在这儿是安全的。
 QST_Story.Monologue.Filler.RiverClanApprentice.Main.9.Context.1.Negative,那些泼皮猫你打算怎么办？大家都说他们就要来攻打营地了！
-QST_Story.Monologue.Filler.RiverClanMedicineCat.Main.9.Context.1.Positive,{THE VENGEFUL ROGUE}偏偏选在大集会前夜动手，绝非偶然。他是想拦住你，不让你求得援手。可你不会让他得逞！
-QST_Story.Monologue.Filler.RiverClanMedicineCat.Main.9.Context.1.Neutral,{THE VENGEFUL ROGUE}自以为能拦住你，让你在集会上求不到援手。希望他想错了。
-QST_Story.Monologue.Filler.RiverClanMedicineCat.Main.9.Context.1.Negative,{THE VENGEFUL ROGUE}会设法拦你，让你去不成大集会，好让你求不到援手。我怕他真会得手！
+QST_Story.Monologue.Filler.RiverClanMedicineCat.Main.9.Context.1.Positive,{THE VENGEFUL ROGUE}偏偏选在满月会议前夜动手，绝非偶然。他是想拦住你，不让你求得援手。可你不会让他得逞！
+QST_Story.Monologue.Filler.RiverClanMedicineCat.Main.9.Context.1.Neutral,{THE VENGEFUL ROGUE}自以为能拦住你，让你在满月会议上求不到援手。希望他想错了。
+QST_Story.Monologue.Filler.RiverClanMedicineCat.Main.9.Context.1.Negative,{THE VENGEFUL ROGUE}会设法拦你，让你去不成满月会议，好让你求不到援手。我怕他真会得手！
 QST_Story.Monologue.Filler.RiverClanMotherElder.Main.9.Context.1.Positive,{THE VENGEFUL ROGUE}以为放话要攻打，就能吓住河族？有你当族长，他休想！
 QST_Story.Monologue.Filler.RiverClanMotherElder.Main.9.Context.1.Neutral,我们全都得提防着，万一{THE VENGEFUL ROGUE}真的动手。你一定要护住你母亲，还有族里的其他猫！
 QST_Story.Monologue.Filler.RiverClanMotherElder.Main.9.Context.1.Negative,我怕万一{THE VENGEFUL ROGUE}打过来，你护不住我们。
 QST_Story.Monologue.Filler.RiverClanKit.Main.9.Context.1.Positive,妈妈说不用怕，我就不怕，因为你是我们有过的最勇敢的族长！
 QST_Story.Monologue.Filler.RiverClanKit.Main.9.Context.1.Neutral,我在努力为妈妈装出勇敢的样子。她怕那些泼皮猫真像大家说的那样打过来。
 QST_Story.Monologue.Filler.RiverClanKit.Main.9.Context.1.Negative,我想勇敢一点，可我做不到。我怕你护不住我们，挡不住那些泼皮猫。
-QST_Story.Monologue.Filler.RiverClanQueen.Main.9.Context.1.Positive,你一定能赶到大集会，带回援手。那些泼皮猫拦不住你。
-QST_Story.Monologue.Filler.RiverClanQueen.Main.9.Context.1.Neutral,就算泼皮猫的威胁悬在头顶，你也得想办法赶到大集会。
-QST_Story.Monologue.Filler.RiverClanQueen.Main.9.Context.1.Negative,若传言属实，泼皮猫一动手，你根本到不了大集会。我怀疑我们里有几个能活着走出营地！
+QST_Story.Monologue.Filler.RiverClanQueen.Main.9.Context.1.Positive,你一定能赶到满月会议，带回援手。那些泼皮猫拦不住你。
+QST_Story.Monologue.Filler.RiverClanQueen.Main.9.Context.1.Neutral,就算泼皮猫的威胁悬在头顶，你也得想办法赶到满月会议。
+QST_Story.Monologue.Filler.RiverClanQueen.Main.9.Context.1.Negative,若传言属实，泼皮猫一动手，你根本到不了满月会议。我怀疑我们里有几个能活着走出营地！
 QST_Story.Monologue.Interaction.TheVengefulRouge.Unique.3.Context.1,惊喜吧，{PLAYER}！你的武士都哪儿去了？都回营地守着那些长老和幼崽了……防着我？嘿嘿……你们可真好骗！
-QST_Story.Monologue.Interaction.TheVengefulRouge.Unique.3.Context.2,可我就在这儿，正好拦住你去大集会。你会死——或者按你们的说法，去星族——再也没法去乞求援手。
+QST_Story.Monologue.Interaction.TheVengefulRouge.Unique.3.Context.2,可我就在这儿，正好拦住你去满月会议。你会死——或者按你们的说法，去星族——再也没法去乞求援手。
 QST_Story.Monologue.Interaction.TheVengefulRouge.Unique.3.Context.3,我要拿下河族和它的领地，把食物和资源劫掠一空，直到土地荒芜、河水死去。那一定很有趣！
 QST_Story.Monologue.Encounter.TheRedeemableRogue.Unique.3.Context.1.Positive,我不会让你独自面对{THE VENGEFUL ROGUE}，{PLAYER}。我知道我们并非一直互相信任，可你已经赢得了我的敬重。
 QST_Story.Monologue.Encounter.TheRedeemableRogue.Unique.3.Context.2.Positive,希望我也赢得了你的。若还没有，我就在这儿，在你身边战斗，把它赢回来。你让我看到，信念和族群间的亲缘，值得为之奋战。
@@ -7795,13 +7795,13 @@ QST_Story.Monologue.Encounter.TheLoner.Unique.3.Context.3.Positive,{THE VENGEFUL
 QST_Story.Monologue.Encounter.TheLoner.Unique.3.Context.1.Negative,我还抱着一丝希望的时候，你其实从没真心想让我加入你的族群，对吧？我又何必惊讶？我终究是只独行猫。一个外来者。
 QST_Story.Monologue.Encounter.TheLoner.Unique.3.Context.2.Negative,可我失望，也恨自己竟会有这种感觉。我独自过活本也还好，是遇见你们之后，被归属族群的念头诱住了。
 QST_Story.Monologue.Encounter.TheLoner.Unique.3.Context.3.Negative,也许帮{THE VENGEFUL ROGUE}杀了你，我会好受些。也许不会。但我会重获自由。而你，会死。
-QST_Story.Monologue.Filler.Squirrelstar.Unique.3.Context.1.Positive,要去大集会了？我不想提前泄了惊喜，但你在短短时间里已经证明自己是个强有力的族长。其他族群的族长都对你刮目相看。
-QST_Story.Monologue.Filler.Squirrelstar.Unique.3.Context.1.Neutral,在去大集会的路上？希望你正斟酌着要对其他族群族长说的话。你短时间内做得不错，可我们仍有疑虑。
-QST_Story.Monologue.Filler.Squirrelstar.Unique.3.Context.1.Negative,去大集会啊。我该提醒你，其他族群的族长对你迄今担任河族族长的表现，评价并不高。
-QST_Story.Monologue.Filler.Ivypool.Unique.3.Context.1.Positive,哼。看来你终究还是把{THE MISTRUSTFUL LEADER}留下的摊子收拾得不错。我想你在集会上能如愿。
+QST_Story.Monologue.Filler.Squirrelstar.Unique.3.Context.1.Positive,要去满月会议了？我不想提前泄了惊喜，但你在短短时间里已经证明自己是个强有力的族长。其他族群的族长都对你刮目相看。
+QST_Story.Monologue.Filler.Squirrelstar.Unique.3.Context.1.Neutral,在去满月会议的路上？希望你正斟酌着要对其他族群族长说的话。你短时间内做得不错，可我们仍有疑虑。
+QST_Story.Monologue.Filler.Squirrelstar.Unique.3.Context.1.Negative,去满月会议啊。我该提醒你，其他族群的族长对你迄今担任河族族长的表现，评价并不高。
+QST_Story.Monologue.Filler.Ivypool.Unique.3.Context.1.Positive,哼。看来你终究还是把{THE MISTRUSTFUL LEADER}留下的摊子收拾得不错。我想你在满月会议上能如愿。
 QST_Story.Monologue.Filler.Ivypool.Unique.3.Context.1.Neutral,你在补救{THE MISTRUSTFUL LEADER}的过失上做得还算可以。可要说服其他族群的族长出手相助，仍是个难题。
-QST_Story.Monologue.Filler.Ivypool.Unique.3.Context.1.Negative,听说其他族群的族长料定你也会像{THE MISTRUSTFUL LEADER}一样站不稳脚。这次集会有你难受的。
-QST_Story.Monologue.Filler.RiverClanApprentice.Unique.3.Context.1.Positive,{THE VENGEFUL ROGUE}真够狡猾，假装要攻打营地，却在你赶去大集会的路上伏击你。可他还是打不过你！
+QST_Story.Monologue.Filler.Ivypool.Unique.3.Context.1.Negative,听说其他族群的族长料定你也会像{THE MISTRUSTFUL LEADER}一样站不稳脚。这次满月会议有你难受的。
+QST_Story.Monologue.Filler.RiverClanApprentice.Unique.3.Context.1.Positive,{THE VENGEFUL ROGUE}真够狡猾，假装要攻打营地，却在你赶去满月会议的路上伏击你。可他还是打不过你！
 QST_Story.Monologue.Filler.RiverClanApprentice.Unique.3.Context.1.Neutral,真不敢相信我们竟上了{THE VENGEFUL ROGUE}的当，信了那个要攻打营地的假传言。至少他的伏击失败了。
 QST_Story.Monologue.Filler.RiverClanApprentice.Unique.3.Context.1.Negative,那个{THE VENGEFUL ROGUE}挺聪明，散布攻打营地的谣言，好来伏击你。你能活着回来真是了不起。
 QST_Story.Monologue.Filler.RiverClanMedicineCat.Unique.3.Context.1.Positive,你跟{THE VENGEFUL ROGUE}打得非常有章法。你成了何等了不起的武士！
@@ -7862,7 +7862,7 @@ QST_Story.Long.TheMistrustfulLeader.Main.5.Context.3.Right,你说的句句属实
 QST_Story.Long.TheMistrustfulLeader.Main.5.Question.3,<B>你有什么建议</>来解决我们的难题？尽管直说。
 QST_Story.Monologue.Filler.RiverClanMotherElder.Main.5.Context.1.Negative,{THE MISTRUSTFUL LEADER}该换掉副族长了。我虽想看到你坐上那个位置，但也许有更合适的人选。
 QST_Story.Long.TheMistrustfulLeader.Main.6.Context.2.Neutral,你必须把族群置于自己之前。这是你的职责。但要护住族群，靠的不只是爪子，还有心。
-QST_Story.Long.TheMistrustfulLeader.Main.6.Question.2,虽说我已采纳你的建议，要在即将到来的大集会上向其他族群求援，我仍然不情愿。我不会向任何族群暴露<B>软弱</>！
+QST_Story.Long.TheMistrustfulLeader.Main.6.Question.2,虽说我已采纳你的建议，要在即将到来的满月会议上向其他族群求援，我仍然不情愿。我不会向任何族群暴露<B>软弱</>！
 QST_Story.Long.TheMistrustfulLeader.Main.6.Neutral.3.Long,需要看到这一点的，不只是其他族群，还有我们自己的族猫。他们对我们的力量正在失去信心，需要被安抚。
 QST_Story.Short.TheLoner.Main.6.Right.2.Long,她骗不了我。若她真骗了我，而且存心要伤害河族，那就得向我交代。
 QST_Story.Short.TheLoner.Main.6.Context.End.Neutral,我不是在断言。我只是把看到的告诉你。信不信由你。
@@ -8180,12 +8180,12 @@ QST_RiverClan.Unique1.Apprentice.Return.Response.Wise,你本该采取行动。�
 QST_RiverClan.Unique1.Apprentice.Title2,交谈……
 QST_RiverClan.Unique2.Deputy.Title,风暴将至
 QST_RiverClan.Unique2.Deputy.Context.1,其他族群已经在窃窃私语了。他们觉得我们的饥饿让我们虚弱，而我们的沉默令人生疑。
-QST_RiverClan.Unique2.Deputy.Task.1,我先去岛上。你带一支后续巡逻队跟上来，守住渡口。我不许泼皮猫搅乱大集会。
+QST_RiverClan.Unique2.Deputy.Task.1,我先去岛上。你带一支后续巡逻队跟上来，守住渡口。我不许泼皮猫搅乱满月会议。
 QST_RiverClan.Unique2.Deputy.Context.2,雷族会在你眼里找软弱。让他们看看，<B>河族昂然挺立</>，哪怕在艰难时节。
 QST_RiverClan.Unique2.Deputy.Context.Answer.Brave.Short,我会展现出力量。
 QST_RiverClan.Unique2.Deputy.Context.Answer.Ambitious.Short,我会亮出爪子！
 QST_RiverClan.Unique2.Deputy.Context.Answer.Wise.Short,我会以礼相待。
-QST_RiverClan.Unique2.Deputy.Context.Answer.Brave.Long,我要让所有族群看到，河族依旧骄傲而强大。大集会不会被泼皮猫搅乱。
+QST_RiverClan.Unique2.Deputy.Context.Answer.Brave.Long,我要让所有族群看到，河族依旧骄傲而强大。满月会议不会被泼皮猫搅乱。
 QST_RiverClan.Unique2.Deputy.Context.Answer.Ambitious.Long,谁敢靠近我们的巡逻队，我就亮爪子给他看，不管是泼皮猫还是别族的武士。他们都会怕我！
 QST_RiverClan.Unique2.Deputy.Context.Answer.Wise.Long,我不会露怯，但也会以礼相待。我得看清靠近的每一只猫是谁，以免生出不必要的冲突。
 QST_RiverClan.Unique2.Deputy.Context.Response.Brave,很好。副族长首先得是个武士。去吧，带着你的武士，在泼皮猫和各族群之间筑起一道护墙。
@@ -8198,7 +8198,7 @@ QST_RiverClan.Unique2.Activity.2,与以下对象交谈：
 QST_RiverClan.Unique2.Objective.2,松鼠星
 QST_RiverClan.Unique2.Activity.3,与以下对象交谈：
 QST_RiverClan.Unique2.Objective.3,常春藤池
-QST_RiverClan.Unique2.Activity.4,保卫大集会，击退：
+QST_RiverClan.Unique2.Activity.4,保卫满月会议，击退：
 QST_RiverClan.Unique2.Objective.4,{THE VENGEFUL ROGUE}
 QST_RiverClan.Unique2.Activity.5,前往：
 QST_RiverClan.Unique2.Objective.5,河族营地
@@ -8217,7 +8217,7 @@ QST_RiverClan.Unique2.Deputy.Return.Response.Wise,悲伤填不满猎物堆，也
 QST_RiverClan.Unique2.Deputy.Title2,交谈……
 QST_RiverClan.Unique3.Leader.Title,潮水渐涨
 QST_RiverClan.Unique3.Leader.Context.1,空气里满是泼皮猫的气味，而关于营地遭袭的耳语，正像野火一样在芦苇间蔓延。
-QST_RiverClan.Unique3.Leader.Task.1,你必须赶到大集会。若此刻说服不了其他族群与我们并肩，我们就会败给饥饿。或者败给那些泼皮猫！
+QST_RiverClan.Unique3.Leader.Task.1,你必须赶到满月会议。若此刻说服不了其他族群与我们并肩，我们就会败给饥饿。或者败给那些泼皮猫！
 QST_RiverClan.Unique3.Leader.Context.2,但路上要当心。说不定有泼皮猫正等着除掉河族的新族长！<B>勇敢些</>！
 QST_RiverClan.Unique3.Leader.Context.Answer.Brave.Short,我不怕。
 QST_RiverClan.Unique3.Leader.Context.Answer.Ambitious.Short,也许我不该去。
@@ -8233,7 +8233,7 @@ QST_RiverClan.Unique3.Objective.1,泼皮猫
 QST_RiverClan.Unique3.Activity.2,找到并与以下对象交谈：
 QST_RiverClan.Unique3.Objective.2,{THE LONER}
 QST_RiverClan.Unique3.Activity.3,前往：
-QST_RiverClan.Unique3.Objective.3,大集会
+QST_RiverClan.Unique3.Objective.3,满月会议
 QST_RiverClan.Unique3.Activity.4,与以下对象战斗：
 QST_RiverClan.Unique3.Objective.4,{THE VENGEFUL ROGUE}
 QST_RiverClan.Unique3.Activity.5,向以下对象复命：
@@ -8308,7 +8308,7 @@ QST_RiverClan.Unique2.Deputy.ActivityTransition.3,猫群之中……我从那股
 QST_RiverClan.Unique2.Deputy.ActivityTransition.4,我们还没跟他了结。等等！{THE MISTRUSTFUL LEADER}在哪儿？
 QST_RiverClan.Unique2.Deputy.ActivityTransition.5,这是什么时候的事？我必须跟巫医谈谈。
 QST_RiverClan.Unique3.Leader.ActivityTransition.1,我确实需要<B>一些</>援手……
-QST_RiverClan.Unique3.Leader.ActivityTransition.2,我们得赶快赶到大集会，与其他族群的族长谈谈。
+QST_RiverClan.Unique3.Leader.ActivityTransition.2,我们得赶快赶到满月会议，与其他族群的族长谈谈。
 QST_RiverClan.Unique3.Leader.ActivityTransition.3,{THE VENGEFUL ROGUE}正逼近我们。我们别无选择，只能一战。
 QST_SideQuest.Collect.Alternative2,疗伤之法
 QST_SideQuest.Collect.Alternative3,巫医的请求
