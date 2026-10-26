@@ -8,7 +8,7 @@
 | 项目 | 说明 |
 | --- | --- |
 | 游戏 | Warrior Cats: Clans of the Forest（Steam / UE 5.7） |
-| 汉化包 | `0.1.1`（构建日期 `2026-10-25`） |
+| 汉化包 | `0.1.2`（构建日期 `2026-10-26`） |
 | 安装位置 | `<游戏安装目录>\Wrc\Content\Paks\` |
 
 ## 1. 安装前准备
@@ -116,7 +116,7 @@ pakchunk0-Windows_P.ucas
 见同目录 `SHA256SUMS.txt` 与 `mod_manifest.json`。当前版本：
 
 ```
-03424ec10e1b5f4ce2a28aa8873c9a1ffe064e49e323d5198e36abe4636f6fd5  pakchunk0-Windows_P.pak
+a2ffd8d80157fdf493c194b8fb6141e3ad82c15bd7501acc2e6520a8b469488b  pakchunk0-Windows_P.pak
 bbc5f021c03e0c79a1459bac23b0729eecbacd0d2bec78eaef9c7e61a55f9e48  pakchunk0-Windows_P.ucas
 dd40f7471358399ada3d76fd01f6ced70c776a3a0f22dcb4674f350329a00ed2  pakchunk0-Windows_P.utoc
 ```

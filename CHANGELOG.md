@@ -1,5 +1,11 @@
 # Changelog
 
+## v0.1.2 — 2026-10-26
+
+- 修复游戏原文占位符笔误导致的显示问题：`{RIVERCLAN MEDICINE CAT}`（原文缺空格，游戏中显示为 `0`）→ 改为固定文本“巫医”
+- 修正其余 6 处游戏原文中的错误占位符（`{THE WARROR FATHER}`、`{THE MISTRUSTING LEADER}`、`{THE MISTRUSTUL LEADER}`、`{THE VENGEFUL WARRIOR}`、`{Player}`、`{Friend}` → 规范 token）
+- 重建 mod，44 项安装校验通过
+
 ## v0.1.1 — 2026-10-25
 
 - 修正“获得新动作/技能”弹窗文案：`Movement unlocked` → **已解锁新动作**

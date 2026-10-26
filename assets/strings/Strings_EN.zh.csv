@@ -4777,7 +4777,7 @@ QST_Story.Monologue.Encounter.TheUnchosenApprentice.Unique.3.Context.1.Warrior,�
 QST_Story.Monologue.Encounter.TheUnchosenApprentice.Unique.3.Context.2.Warrior,早该清除雷族内部的威胁，把影族彻底赶出去了！
 QST_Story.Monologue.Encounter.TheUnchosenApprentice.Unique.3.Context.3.Warrior,我绝不会让这个叛徒和那些外来者毁掉我们的家园，毁掉你如此勇敢统御的族群。
 QST_Story.Monologue.Encounter.TheUnchosenApprentice.Unique.3.Context.1,我拼命努力想证明自己，可不知怎的，始终没能赢得武士名号。这不公平。
-QST_Story.Monologue.Encounter.TheUnchosenApprentice.Unique.3.Context.3,从今往后，我要以泼皮猫的身份活着，照我自己的规矩。我要拿走我认为自己应得的东西，不再等谁点头。再会了，{Player}。
+QST_Story.Monologue.Encounter.TheUnchosenApprentice.Unique.3.Context.3,从今往后，我要以泼皮猫的身份活着，照我自己的规矩。我要拿走我认为自己应得的东西，不再等谁点头。再会了，{PLAYER}。
 QST_Story.Monologue.Encounter.TheAmbitiousWarrior.Unique.3.Context.1.Traitor,{THE AGING LEADER}是个老糊涂，谁最后在他耳边喵两声，他就听谁的。而你就是那个贴着他耳朵的猫，不是吗？
 QST_Story.Monologue.Encounter.TheAmbitiousWarrior.Unique.3.Context.3.Traitor,你会死在我的爪下，而我将统领这个族群——早在你还是只刚出生的幼崽时，这就已注定！
 QST_Story.Monologue.Encounter.TheAmbitiousWarrior.Unique.3.Context.1.Deputy,我或许显得心灰意冷，但我对族群的忠诚从未动摇。如今，我会为救它而战。
@@ -6755,7 +6755,7 @@ QST_Story.Monologue.Filler.WindClanMedicineCat.Main.5.Context.1.Neutral,也许�
 QST_Story.Monologue.Filler.WindClanMedicineCat.Main.5.Context.1.Negative,有没有梦都一样，{THE WARRIOR FATHER}老是外出、又遮遮掩掩，看来这场惨祸是他自己招来的。
 QST_Story.Monologue.Filler.Crowfeather.Main.5.Context.1.Positive,这当然是场惨祸，对你和{THE QUEEN MOTHER}尤其如此。但我们会作为一个族群，一起熬过这段可怕的日子。
 QST_Story.Monologue.Filler.Crowfeather.Main.5.Context.1.Neutral,你和{THE QUEEN MOTHER}还撑得住吗？这是场惨祸，不过我想，这正说明意外会落到我们每只猫头上。
-QST_Story.Monologue.Filler.Crowfeather.Main.5.Context.1.Negative,{Warrior father}的死是场惨祸。如今守住他的传承，就靠你了。你可别让他失望！
+QST_Story.Monologue.Filler.Crowfeather.Main.5.Context.1.Negative,{THE WARRIOR FATHER}的死是场惨祸。如今守住他的传承，就靠你了。你可别让他失望！
 QST_Story.Monologue.Filler.WindClanKit.Main.5.Context.1.Positive,{THE WARRIOR FATHER}的事，我真的很难过。他是位伟大的武士。我父母都很敬重他！
 QST_Story.Monologue.Filler.WindClanKit.Main.5.Context.1.Neutral,{THE WARRIOR FATHER}的事真可惜。也许他要不老是偷偷出去，这事就不会发生。
 QST_Story.Monologue.Filler.WindClanKit.Main.5.Context.1.Negative,我父母在琢磨，{THE WARRIOR FATHER}要真是这么把自己弄死了，他这武士到底有多能耐。
@@ -7000,7 +7000,7 @@ QST_Story.Long.TheZealousWarrior.Unique.3.Wrong.1.Short,没有猫会软弱到那
 QST_Story.Long.TheZealousWarrior.Unique.3.Neutral.1.Short,是病拖住了他。
 QST_Story.Long.TheZealousWarrior.Unique.3.Right.1.Long,可我尊敬过{THE INSECURE LEADER}。我们都尊敬他。这念头一定啃噬了他很久，才会逼他做出这种可怕的事。
 QST_Story.Long.TheZealousWarrior.Unique.3.Wrong.1.Long,没有猫会软弱到因为嫉妒就害死另一只猫——还是自己的好朋友！这里面一定另有隐情。
-QST_Story.Long.TheZealousWarrior.Unique.3.Neutral.1.Long,我明白了。惨剧期间他病倒了，被拖住了脚步。{THE WARROR FATHER}和{THE QUEEN MOTHER}成了英雄。他不过是又一个受害者。
+QST_Story.Long.TheZealousWarrior.Unique.3.Neutral.1.Long,我明白了。惨剧期间他病倒了，被拖住了脚步。{THE WARRIOR FATHER}和{THE QUEEN MOTHER}成了英雄。他不过是又一个受害者。
 QST_Story.Long.TheZealousWarrior.Unique.3.Context.2.Wrong,别让同情蒙住你的眼。他不光对{THE WARRIOR FATHER}心怀怨恨许多个月，还曾以为{THE QUEEN MOTHER}会成为他的伴侣。
 QST_Story.Long.TheZealousWarrior.Unique.3.Context.2.Neutral,是真的，也很可悲。在他病倒之前，他一直以为{THE QUEEN MOTHER}会成为他的伴侣。可这也没成真。
 QST_Story.Long.TheZealousWarrior.Unique.3.Question.2,于是他派{THE WARRIOR FATHER}去执行越来越危险的任务，盼着他出点什么<B>意外</>。
@@ -7182,7 +7182,7 @@ QST_Story.Monologue.Filler.RiverClanKit.Main.1.Context.1.Neutral,{RIVER CLAN APP
 QST_Story.Monologue.Filler.RiverClanKit.Main.1.Context.1.Negative,{RIVER CLAN APPRENTICE}说既然他们当上了学徒，我们就得尊敬他们。我们也非得尊敬你不可吗？
 QST_Story.Monologue.Filler.RiverClanQueen.Main.1.Context.1.Positive,对{THE REGRETFUL WARRIOR}耐心些。他看起来总是有点忧伤。
 QST_Story.Monologue.Filler.RiverClanQueen.Main.1.Context.1.Neutral,{THE REGRETFUL WARRIOR}当你的导师，年纪是大了点。也许你会是他成为长老前的最后一个学徒。
-QST_Story.Monologue.Filler.RiverClanQueen.Main.1.Context.1.Negative,{THE MISTRUSTING LEADER}把{THE REGRETFUL WARRIOR}派给你当导师，可没帮到你什么。他又老又慢。
+QST_Story.Monologue.Filler.RiverClanQueen.Main.1.Context.1.Negative,{THE MISTRUSTFUL LEADER}把{THE REGRETFUL WARRIOR}派给你当导师，可没帮到你什么。他又老又慢。
 QST_Story.Monologue.Filler.RiverClanApprentice.Main.2.Context.1.Positive,你和{THE REGRETFUL WARRIOR}似乎相处得不错。也许他还没老到当不成一名强壮的武士。
 QST_Story.Monologue.Filler.RiverClanApprentice.Main.2.Context.1.Neutral,你居然跟得上{THE REGRETFUL WARRIOR}这样的导师，真让我意外。我的导师说，他许多个月以前就该当长老了。
 QST_Story.Monologue.Filler.RiverClanApprentice.Main.2.Context.1.Negative,你导师没事吧？就算按长老的标准，他也瘦得厉害。希望他撑得住训练你！
@@ -7544,7 +7544,7 @@ QST_Story.Long.TheMistrustfulLeader.Main.6.Right.3.Short,我会把泼皮猫赶�
 QST_Story.Long.TheMistrustfulLeader.Main.6.Wrong.3.Short,我们做不到独力应对。
 QST_Story.Long.TheMistrustfulLeader.Main.6.Neutral.3.Short,我们得先向自己证明。
 QST_Story.Long.TheMistrustfulLeader.Main.6.Right.3.Long,那我就召集武士，把泼皮猫赶走。他们一走，我们就不必再去别族领地里找吃的了。
-QST_Story.Long.TheMistrustfulLeader.Main.6.Wrong.3.Long,我认为我们没法独力应付，{THE MISTRUSTFUL LEADER}。我信赖我们的武士，但也相信{THE VENGEFUL WARRIOR}是个真正的威胁！
+QST_Story.Long.TheMistrustfulLeader.Main.6.Wrong.3.Long,我认为我们没法独力应付，{THE MISTRUSTFUL LEADER}。我信赖我们的武士，但也相信{THE VENGEFUL ROGUE}是个真正的威胁！
 QST_Story.Long.TheMistrustfulLeader.Main.6.Context.End.Right,很好。你的勇气一定会激励武士们。
 QST_Story.Long.TheMistrustfulLeader.Main.6.Context.End.Wrong,你说你相信我们的族群、相信我们的武士，却又坚持说我们需要援手。你是在骗我，还是在骗你自己？
 QST_Story.Long.TheMistrustfulLeader.Main.6.Context.End.Neutral,有你来带领武士，族群会比在我上一任副族长带领下安稳许多。
@@ -7569,7 +7569,7 @@ QST_Story.Short.TheLoner.Main.6.Neutral.2.Long,但愿不会。我不喜欢意外
 QST_Story.Short.TheLoner.Main.6.Context.End.Right,看你眼里那股火，我不怀疑。当然，我也说不准那究竟是怎么回事，只是觉得该让你知道。
 QST_Story.Short.TheLoner.Main.6.Context.End.Wrong,我从头到尾都只是想帮忙，你却还是疑我。我没想到族群生活会让一只猫变得这么多疑。
 QST_Story.Short.TheLoner.Main.6.End,既然报告完了，剩下的事就交给你了。
-QST_Story.Short.TheRegretfulWarrior.Main.6.Context.1,（咳嗽）（咳嗽）抱歉，{PLAYER}，我染上了绿咳症。我一直在吃{RIVERCLAN MEDICINE CAT}给的药草，可好像（咳嗽）不见效。
+QST_Story.Short.TheRegretfulWarrior.Main.6.Context.1,（咳嗽）（咳嗽）抱歉，{PLAYER}，我染上了绿咳症。我一直在吃巫医给的药草，可好像（咳嗽）不见效。
 QST_Story.Short.TheRegretfulWarrior.Main.6.Question.1,你要是看到（咳嗽）我在营地里看到的景象，就知道情况有多糟。幼崽们还饿着肚子。（咳嗽）（咳嗽）<B>那些泼皮猫是挥之不去的威胁</>。
 QST_Story.Short.TheRegretfulWarrior.Main.6.Right.1.Short,我这就去！
 QST_Story.Short.TheRegretfulWarrior.Main.6.Wrong.1.Short,这事你别管。
@@ -7647,7 +7647,7 @@ QST_Story.Short.TheRedeemableRogue.Main.7.Context.End.Wrong,你说的话，跟�
 QST_Story.Short.TheRedeemableRogue.Main.7.Context.End.Neutral,我一点也不信。哪个族群没有自己的戏码。不过，若你所言属实，那听着倒不错。
 QST_Story.Monologue.Filler.RiverClanApprentice.Main.7.Context.1.Positive,大家都在说{THE MISTRUSTFUL LEADER}要退位、你要当族长了。真是好消息。
 QST_Story.Monologue.Filler.RiverClanApprentice.Main.7.Context.1.Neutral,看来{THE MISTRUSTFUL LEADER}要去做长老了。也就是说，你会是新族长。
-QST_Story.Monologue.Filler.RiverClanApprentice.Main.7.Context.1.Negative,要是{THE MISTRUSTUL LEADER}退位去当长老，那你就是我们的族长了。这世道真是越来越糟。
+QST_Story.Monologue.Filler.RiverClanApprentice.Main.7.Context.1.Negative,要是{THE MISTRUSTFUL LEADER}退位去当长老，那你就是我们的族长了。这世道真是越来越糟。
 QST_Story.Monologue.Filler.RiverClanMedicineCat.Main.7.Context.1.Positive,{THE REGRETFUL WARRIOR}看起来一阵大风就能把他吹走。希望你已经接受了他即将面临的事。
 QST_Story.Monologue.Filler.RiverClanMedicineCat.Main.7.Context.1.Neutral,有时候，{THE REGRETFUL WARRIOR}一咳起来就停不住。真让人难过。我知道你们俩很亲近。
 QST_Story.Monologue.Filler.RiverClanMedicineCat.Main.7.Context.1.Negative,我多希望能救得了{THE REGRETFUL WARRIOR}。他的样子很糟。恐怕他很快就要去星族了。
@@ -8306,7 +8306,7 @@ QST_RiverClan.Unique2.Deputy.ActivityTransition.1,我该试着去找些盟友…
 QST_RiverClan.Unique2.Deputy.ActivityTransition.2,也许现在不是向族长求助的好时机。
 QST_RiverClan.Unique2.Deputy.ActivityTransition.3,猫群之中……我从那股气味里嗅出了危险！
 QST_RiverClan.Unique2.Deputy.ActivityTransition.4,我们还没跟他了结。等等！{THE MISTRUSTFUL LEADER}在哪儿？
-QST_RiverClan.Unique2.Deputy.ActivityTransition.5,这是什么时候的事？我必须跟{RIVERCLAN MEDICINE CAT}谈谈。
+QST_RiverClan.Unique2.Deputy.ActivityTransition.5,这是什么时候的事？我必须跟巫医谈谈。
 QST_RiverClan.Unique3.Leader.ActivityTransition.1,我确实需要<B>一些</>援手……
 QST_RiverClan.Unique3.Leader.ActivityTransition.2,我们得赶快赶到大集会，与其他族群的族长谈谈。
 QST_RiverClan.Unique3.Leader.ActivityTransition.3,{THE VENGEFUL ROGUE}正逼近我们。我们别无选择，只能一战。
@@ -8729,7 +8729,7 @@ STR_ROGUE_CAT_NAME_22,焦痕
 STR_ROGUE_CAT_NAME_23,岩
 STR_ITEM_DECORATION_INFO,配饰
 STR_MAINMENU_MESSAGE_GALLERY_LOCKED,用任意一只猫完成故事即可解锁图库
-STR_DEN_VISIT_FRIEND_HELPED,{Friend}帮你加快了制作速度！
+STR_DEN_VISIT_FRIEND_HELPED,{FRIEND}帮你加快了制作速度！
 STR_DEFENDER_LOCK_FIGHT,需要：武士等级才能战斗
 STR_BOT_NAME_11,EchoPineDrift
 STR_BOT_NAME_12,KatTorque118
