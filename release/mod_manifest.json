@@ -1,14 +1,14 @@
 {
   "mod": {
     "name": "Warrior Cats: Clans of the Forest 简体中文汉化",
-    "version": "0.1.3"
+    "version": "0.1.4"
   },
   "generator": "wrc-cn/tools/install/installer.py",
   "files": [
     {
       "name": "pakchunk0-Windows_P.pak",
-      "size": 8323204,
-      "sha256": "8e6c3d0196ddc0eb1130c49816e036f6cda9f19baa9d226476efddf93dd7feec",
+      "size": 8323198,
+      "sha256": "0e1d111dda9b632c11202123138a9791a94b0abfe8d611909470eb6f89fc8159",
       "pak_entries": [
         "WRC-CN-ModMarker.txt",
         "Wrc/Content/Art/UXD/Fonts/Amarante/Amarante-Regular.ufont",

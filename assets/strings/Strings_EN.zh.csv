@@ -4257,7 +4257,7 @@ QST_RankUp.Apprentice.Context.1,你刻苦训练过，但在赢得武士名号之
 QST_RankUp.Apprentice.Task.1,你必须再逼自己一把，越过你以为的极限。等月亮高挂时回来，我们来看看你到底是学徒，还是武士。
 QST_RankUp.Apprentice.Context.2,等你<B>向自己证明了</>你拥有的巨大力量，就回来。若你做到了，我们会聚在一处，看你成为武士。
 QST_RankUp.Activity.1,提升你的力量：
-QST_RankUp.Activity.2,参加族群满月会议：
+QST_RankUp.Activity.2,参加族群集会：
 QST_RankUp.Activity.3,在巢穴中休息：
 QST_RankUp.Apprentice.Return.1,你直面了自己的极限，并越了过去。你向自己证明了力量，也就向族群证明了。欢迎晋入武士之位。
 QST_RankUp.Warrior.Title,锋芒不减
@@ -8178,7 +8178,7 @@ QST_RiverClan.Unique1.Apprentice.Return.Response.Brave,外来猫？就算是“�
 QST_RiverClan.Unique1.Apprentice.Return.Response.Ambitious,你把它们赶跑了？很好。我会告诉副族长，我们的边界被闯过了。
 QST_RiverClan.Unique1.Apprentice.Return.Response.Wise,你本该采取行动。观察是一回事，可入侵者必须正面应对。我去通知副族长。
 QST_RiverClan.Unique1.Apprentice.Title2,交谈……
-QST_RiverClan.Unique2.Deputy.Title,风暴将至
+QST_RiverClan.Unique2.Deputy.Title,满月风暴
 QST_RiverClan.Unique2.Deputy.Context.1,其他族群已经在窃窃私语了。他们觉得我们的饥饿让我们虚弱，而我们的沉默令人生疑。
 QST_RiverClan.Unique2.Deputy.Task.1,我先去岛上。你带一支后续巡逻队跟上来，守住渡口。我不许泼皮猫搅乱满月会议。
 QST_RiverClan.Unique2.Deputy.Context.2,雷族会在你眼里找软弱。让他们看看，<B>河族昂然挺立</>，哪怕在艰难时节。
@@ -8191,7 +8191,7 @@ QST_RiverClan.Unique2.Deputy.Context.Answer.Wise.Long,我不会露怯，但也�
 QST_RiverClan.Unique2.Deputy.Context.Response.Brave,很好。副族长首先得是个武士。去吧，带着你的武士，在泼皮猫和各族群之间筑起一道护墙。
 QST_RiverClan.Unique2.Deputy.Context.Response.Ambitious,别像头野兽似的。你要是动手太快，只会把事情弄得更糟，而不是更好。
 QST_RiverClan.Unique2.Deputy.Context.Response.Wise,精打细算是长老们的事。你若太谨慎、行动太慢，很容易被敌人压垮！
-QST_RiverClan.Unique2.Leader.Title,风暴将至
+QST_RiverClan.Unique2.Leader.Title,满月风暴
 QST_RiverClan.Unique2.Activity.1,前往：
 QST_RiverClan.Unique2.Objective.1,岛屿
 QST_RiverClan.Unique2.Activity.2,与以下对象交谈：
